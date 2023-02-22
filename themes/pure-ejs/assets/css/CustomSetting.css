@@ -36,12 +36,14 @@
 
 @media only screen and (max-width: 900px) {
   .Aside #up {
+    right: 15px;
     bottom: 65px;
     width: 25px;
     height: 25px;
     line-height: 25px;
   }
   .Aside #down {
+    right: 15px;
     width: 25px;
     height: 25px;
     line-height: 25px;
